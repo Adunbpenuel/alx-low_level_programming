@@ -1,9 +1,9 @@
 #include <unistd.h>
 
 /**
- * main - Print quote
+ * main - Entry point
  *
- * Return: Always 1 (Successfully)
+ * Return: Always 1 (Success)
  */
 
 int main(void)
