@@ -3,7 +3,7 @@
 /**
  * main - Print quote
  *
- * * Return: Always 1 (Successfully)
+ * Return: Always 1 (Successfully)
  */
 
 int main(void)
