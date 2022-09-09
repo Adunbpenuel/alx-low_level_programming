@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc –S –masm=intel $CFILE 
+gcc -S -mtune=intel $CFILE > main.s 
