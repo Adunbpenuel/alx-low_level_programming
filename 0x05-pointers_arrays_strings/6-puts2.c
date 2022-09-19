@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _puts2 - print every other character of a string.
+ * puts2 - prints one char out of 2 of a string.
  * @str: input string.
  * Return: no return.
  */
-void puts2(char *str);
+void puts2(char *str)
 {
 	int count = 0;
 
